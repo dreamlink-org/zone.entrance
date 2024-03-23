@@ -1,0 +1,9 @@
+{
+    "meta.id": 24,
+    "texture.sample.front": "stone.cobble",
+    "texture.sample.back": "stone.cobble",
+    "texture.sample.left": "stone.cobble",
+    "texture.sample.right": "stone.cobble",
+    "texture.sample.top": "stone.cobble",
+    "texture.sample.bottom": "stone.cobble"
+}

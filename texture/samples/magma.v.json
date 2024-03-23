@@ -1,0 +1,9 @@
+{
+    "lookup.position": [32, 544],
+    "lookup.dimensions": [16, 16],
+    "animation.stride": [0, 1],
+    "animation.frames.total": 16,
+    "animation.frames.start": 0,
+    "animation.frames.row": 1,
+    "animation.speed": 0.2
+}

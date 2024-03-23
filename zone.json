@@ -1,0 +1,13 @@
+{
+    "meta.nexusid": "@tlonny/pumpkinpalace",
+    "terrain.dimensions.chunk_space": [2, 2, 2],
+
+    "skybox.texture.sample.front": "skybox",
+    "skybox.texture.sample.back": "skybox",
+    "skybox.texture.sample.left": "skybox",
+    "skybox.texture.sample.right": "skybox",
+    "skybox.texture.sample.top": "skybox",
+    "skybox.texture.sample.bottom": "skybox",
+    "skybox.lighting.is_affected": false,
+    "lighting.base": 0.3
+}

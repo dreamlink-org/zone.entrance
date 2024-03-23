@@ -1,0 +1,9 @@
+{
+    "meta.id": 25,
+    "texture.sample.front": "canvas.cyan",
+    "texture.sample.back": "canvas.cyan",
+    "texture.sample.left": "canvas.cyan",
+    "texture.sample.right": "canvas.cyan",
+    "texture.sample.top": "canvas.cyan",
+    "texture.sample.bottom": "canvas.cyan"
+}

@@ -1,0 +1,9 @@
+{
+    "meta.id": 42,
+    "texture.sample.front": "flesh.fat",
+    "texture.sample.back": "flesh.fat",
+    "texture.sample.left": "flesh.fat",
+    "texture.sample.right": "flesh.fat",
+    "texture.sample.top": "flesh.fat",
+    "texture.sample.bottom": "flesh.fat"
+}

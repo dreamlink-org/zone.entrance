@@ -1,0 +1,9 @@
+{
+    "meta.id": 16,
+    "texture.sample.front": "marble.black",
+    "texture.sample.back": "marble.black",
+    "texture.sample.left": "marble.black",
+    "texture.sample.right": "marble.black",
+    "texture.sample.top": "marble.black",
+    "texture.sample.bottom": "marble.black"
+}

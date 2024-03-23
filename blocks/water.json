@@ -1,0 +1,12 @@
+{
+    "meta.id": 37,
+    "texture.sample.front": "water.v",
+    "texture.sample.back": "water.v",
+    "texture.sample.left": "water.v",
+    "texture.sample.right": "water.v",
+    "texture.sample.top": "water.h",
+    "texture.sample.bottom": "water.h",
+    "texture.is_transparent": true,
+    "material.type": "liquid",
+    "lighting.is_transmitting": true
+}

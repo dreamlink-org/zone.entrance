@@ -1,0 +1,9 @@
+{
+    "meta.id": 13,
+    "texture.sample.front": "jackolantern.frontoff",
+    "texture.sample.back": "jackolantern.side",
+    "texture.sample.left": "jackolantern.side",
+    "texture.sample.right": "jackolantern.side",
+    "texture.sample.top": "jackolantern.end",
+    "texture.sample.bottom": "jackolantern.side"
+}

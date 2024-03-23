@@ -1,0 +1,34 @@
+{
+    "courtyard": {
+        "position.orientation": "back",
+        "position.position": [
+            25,
+            2,
+            30
+        ]
+    },
+    "main": {
+        "position.orientation": "back",
+        "position.position": [
+            7,
+            2,
+            30
+        ]
+    },
+    "redroom": {
+        "position.orientation": "front",
+        "position.position": [
+            10,
+            2,
+            9
+        ]
+    },
+    "balcony": {
+        "position.orientation": "right",
+        "position.position": [
+            30,
+            7,
+            28
+        ]
+    }
+}

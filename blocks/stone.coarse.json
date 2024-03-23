@@ -1,0 +1,9 @@
+{
+    "meta.id": 32,
+    "texture.sample.front": "stone.coarse",
+    "texture.sample.back": "stone.coarse",
+    "texture.sample.left": "stone.coarse",
+    "texture.sample.right": "stone.coarse",
+    "texture.sample.top": "stone.coarse",
+    "texture.sample.bottom": "stone.coarse"
+}

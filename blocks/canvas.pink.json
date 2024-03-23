@@ -1,0 +1,9 @@
+{
+    "meta.id": 23,
+    "texture.sample.front": "canvas.pink",
+    "texture.sample.back": "canvas.pink",
+    "texture.sample.left": "canvas.pink",
+    "texture.sample.right": "canvas.pink",
+    "texture.sample.top": "canvas.pink",
+    "texture.sample.bottom": "canvas.pink"
+}

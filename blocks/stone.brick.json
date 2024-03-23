@@ -1,0 +1,9 @@
+{
+    "meta.id": 31,
+    "texture.sample.front": "stone.brick",
+    "texture.sample.back": "stone.brick",
+    "texture.sample.left": "stone.brick",
+    "texture.sample.right": "stone.brick",
+    "texture.sample.top": "stone.brick",
+    "texture.sample.bottom": "stone.brick"
+}

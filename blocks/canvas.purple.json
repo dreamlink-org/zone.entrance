@@ -1,0 +1,9 @@
+{
+    "meta.id": 15,
+    "texture.sample.front": "canvas.purple",
+    "texture.sample.back": "canvas.purple",
+    "texture.sample.left": "canvas.purple",
+    "texture.sample.right": "canvas.purple",
+    "texture.sample.top": "canvas.purple",
+    "texture.sample.bottom": "canvas.purple"
+}

@@ -1,0 +1,9 @@
+{
+    "meta.id": 9,
+    "texture.sample.front": "stone.mossy",
+    "texture.sample.back": "stone.mossy",
+    "texture.sample.left": "stone.mossy",
+    "texture.sample.right": "stone.mossy",
+    "texture.sample.top": "stone.mossy",
+    "texture.sample.bottom": "stone.mossy"
+}

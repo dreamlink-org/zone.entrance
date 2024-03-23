@@ -1,0 +1,9 @@
+{
+    "meta.id": 41,
+    "texture.sample.front": "sand.smooth",
+    "texture.sample.back": "sand.smooth",
+    "texture.sample.left": "sand.smooth",
+    "texture.sample.right": "sand.smooth",
+    "texture.sample.top": "sand.smooth",
+    "texture.sample.bottom": "sand.smooth"
+}

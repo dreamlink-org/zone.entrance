@@ -1,0 +1,9 @@
+{
+    "meta.id": 4,
+    "texture.sample.front": "leaves.thick",
+    "texture.sample.back": "leaves.thick",
+    "texture.sample.left": "leaves.thick",
+    "texture.sample.right": "leaves.thick",
+    "texture.sample.top": "leaves.thick",
+    "texture.sample.bottom": "leaves.thick"
+}

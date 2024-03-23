@@ -1,0 +1,9 @@
+{
+    "meta.id": 35,
+    "texture.sample.front": "gravel",
+    "texture.sample.back": "gravel",
+    "texture.sample.left": "gravel",
+    "texture.sample.right": "gravel",
+    "texture.sample.top": "gravel",
+    "texture.sample.bottom": "gravel"
+}

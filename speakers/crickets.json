@@ -1,0 +1,6 @@
+{
+    "sound" : "crickets.ogg",
+    "radius.min": 4,
+    "radius.max": 12,
+    "gain": 0.25
+}

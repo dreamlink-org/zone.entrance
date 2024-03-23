@@ -1,0 +1,9 @@
+{
+    "meta.id": 30,
+    "texture.sample.front": "fungus",
+    "texture.sample.back": "fungus",
+    "texture.sample.left": "fungus",
+    "texture.sample.right": "fungus",
+    "texture.sample.top": "fungus",
+    "texture.sample.bottom": "fungus"
+}

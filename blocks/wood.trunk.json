@@ -1,0 +1,9 @@
+{
+    "meta.id": 11,
+    "texture.sample.front": "wood.trunkside",
+    "texture.sample.back": "wood.trunkside",
+    "texture.sample.left": "wood.trunkside",
+    "texture.sample.right": "wood.trunkside",
+    "texture.sample.top": "wood.trunkend",
+    "texture.sample.bottom": "wood.trunkend"
+}

@@ -1,0 +1,14 @@
+{
+    "meta.id": 34,
+    "texture.sample.front": "barrier",
+    "texture.sample.back": "barrier",
+    "texture.sample.left": "barrier",
+    "texture.sample.right": "barrier",
+    "texture.sample.top": "barrier",
+    "texture.sample.bottom": "barrier",
+    "texture.is_transparent": true,
+    "texture.is_hidden": true,
+    "lighting.is_transmitting": true,
+    "lighting.is_affected": false,
+    "material.type": "solid"
+}

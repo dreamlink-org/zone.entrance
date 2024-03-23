@@ -1,0 +1,11 @@
+{
+    "meta.id": 44,
+    "texture.sample.front": "jackolantern.fronton",
+    "texture.sample.back": "jackolantern.side",
+    "texture.sample.left": "jackolantern.side",
+    "texture.sample.right": "jackolantern.side",
+    "texture.sample.top": "jackolantern.end",
+    "texture.sample.bottom": "jackolantern.side",
+    "lighting.is_affected": false,
+    "lighting.amount": 0.75
+}

@@ -1,0 +1,9 @@
+{
+    "meta.id": 19,
+    "texture.sample.front": "canvas.green",
+    "texture.sample.back": "canvas.green",
+    "texture.sample.left": "canvas.green",
+    "texture.sample.right": "canvas.green",
+    "texture.sample.top": "canvas.green",
+    "texture.sample.bottom": "canvas.green"
+}

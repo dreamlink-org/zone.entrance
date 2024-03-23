@@ -1,0 +1,9 @@
+{
+    "meta.id": 17,
+    "texture.sample.front": "magma.v",
+    "texture.sample.back": "magma.v",
+    "texture.sample.left": "magma.v",
+    "texture.sample.right": "magma.v",
+    "texture.sample.top": "magma.h",
+    "texture.sample.bottom": "magma.h"
+}
